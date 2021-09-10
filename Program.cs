@@ -64,6 +64,8 @@ namespace Musica
             Console.WriteLine("Help me believe it's not the real me");
             Console.WriteLine("Somebody help me tame this animal");
             Console.WriteLine("This animal I have become");
+            
+            Console.ResetColor();
 
 
 
